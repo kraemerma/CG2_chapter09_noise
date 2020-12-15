@@ -1,0 +1,13 @@
+﻿  main.cpp
+  noisetex.cpp
+  scenedecay.cpp
+  scenenightvision.cpp
+  scenenoise.cpp
+D:\TH_Grafikshader\Wolff3rd\referat\Isolated9\Isolated9\Isolated9\scenenoise.cpp(101,58): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  scenepaint.cpp
+  scenerust.cpp
+  scenesky.cpp
+  scenewood.cpp
+  Generating Code...
+LINK : warning LNK4098: defaultlib 'MSVCRT' conflicts with use of other libs; use /NODEFAULTLIB:library
+  Isolated9.vcxproj -> D:\TH_Grafikshader\Wolff3rd\referat\Isolated9\Isolated9\x64\Debug\Isolated9.exe

@@ -1,0 +1,8 @@
+﻿  scenenoise.cpp
+D:\TH_Grafikshader\Wolff3rd\referat\Isolated9\Isolated9\Isolated9\scenenoise.cpp(101,58): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  Generating code
+  3 of 2577 functions ( 0.1%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    26 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Isolated9.vcxproj -> D:\TH_Grafikshader\Wolff3rd\referat\Isolated9\Isolated9\x64\Release\Isolated9.exe
